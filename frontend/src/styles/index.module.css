@@ -1,0 +1,9 @@
+.blocCountry{
+    display:flex;
+    justify-content: center;;
+    flex-direction: row;
+  }
+  
+.blocform {
+    margin: 2%;
+}

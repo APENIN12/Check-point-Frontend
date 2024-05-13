@@ -1,0 +1,21 @@
+
+  .header {
+    font-family: BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    text-align: center;
+    background-color: #f72585;
+    padding: 20px 0;
+    width: 100%;
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .header p {
+    font-size: 16px;
+    margin: 0;
+  }
